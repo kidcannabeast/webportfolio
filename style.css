@@ -1,0 +1,41 @@
+/*CSS RESET*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Cinzel Decorative", sans-serif;
+	background-image: url(https://wallpaperaccess.com/full/1679628.jpg);
+}
+
+#me2 {
+	filter: drop-shadow(15px 15px 20px black);
+	border-radius: 15px;
+	margin-bottom: 25px;
+}
+
+#cards {
+	filter: drop-shadow(30px 30px 25px black);
+	border-radius: 30px;
+	margin-bottom: 25px;
+}
+
+#card1 {
+	filter: drop-shadow(10px 10px 15px darkgray);
+	border-radius: 10px;
+	margin-bottom: 25px;
+}
+
+#gmap {
+    height: 60vh;
+    width: 100%;
+    border-radius: 30px;
+    filter: drop-shadow(20px 20px 25px black);
+}
+
+#hjpg {
+	height: 20%;
+	width: 15%;
+}
